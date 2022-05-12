@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aabhushan
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C++, Java, MySQL.
+- 🌱 I’m currently learning MERN stack.
  - 📫 You can reach me through Instagram: aabhushan___k 
  - email: aabhu57shan@gmail.com 
 
